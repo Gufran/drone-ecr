@@ -1,5 +1,7 @@
 # drone-ecr
 
+## A fork of drone-ecr plugin made to work with cross account IAM authentication
+
 [![Build Status](http://beta.drone.io/api/badges/drone-plugins/drone-ecr/status.svg)](http://beta.drone.io/drone-plugins/drone-ecr)
 
 Drone plugin to build and publish Docker images to AWS EC2 Container Registry. For the usage information and a listing of the available options please take a look at [the docs](DOCS.md).
